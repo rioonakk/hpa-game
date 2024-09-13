@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #87CEEB; /* 空色 */
+}
+
+canvas {
+    border: 2px solid black;
+    background-color: #1E90FF; /* 海の色 */
+}
